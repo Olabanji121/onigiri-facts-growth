@@ -226,6 +226,25 @@
 
 ---
 
+## GENERATED VIDEOS (AI Pipeline)
+
+### Script 21: Stomach Acid Dissolves Metal ✅ GENERATED
+**Hook:** "Your stomach is producing acid right now that could dissolve a razor blade."
+
+**Body:** "It's hydrochloric acid. The same stuff used to strip rust off steel. And it's inside you right now. Your stomach lining replaces itself every three to four days. Just to survive its own acid. If it ever stopped? Your stomach would digest itself. From the inside."
+
+**CTA:** "Follow for more facts that'll make you question everything."
+
+**Caption:** Your stomach acid can dissolve a razor blade. And it rebuilds its own lining every 3 days just to survive itself 🤯
+
+#sciencefacts #humanbody #biology #stomachacid
+
+**Character:** Cute pink stomach organ, claymation style
+**Duration:** 22 seconds (4 scenes: HOOK → EXPLAIN → TWIST → CLOSER)
+**Status:** Video generated — `output/15-stomach-acid/final.mp4`
+
+---
+
 ## POSTING SCHEDULE (2 Weeks - All NEW Content)
 
 **Week 1:**
